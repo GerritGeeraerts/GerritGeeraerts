@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @GerritGeeraerts
-- 👀 I’m interested in python & django
-- 🌱 I’m currently learning django & python
-- 💞️ I’m looking to collaborate on python & django & wagtail :D
-- 📫 ggeeraer@gmail.com
+- 👋 Hi, I’m Gerrit Geeraerts and i am currently looking for a developer job in python.
