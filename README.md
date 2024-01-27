@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Gerrit Geeraerts and i am currently looking for a job in artificial intelligence.
-- (I created my cv using markdown-cv)[https://gerritgeeraerts.github.io/markdown-cv/]
+- (https://gerritgeeraerts.github.io/markdown-cv/)[I created my cv] with (https://github.com/elipapa/markdown-cv)[elipapa/markdown-cv]
