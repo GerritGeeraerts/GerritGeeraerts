@@ -66,6 +66,7 @@
   </td>
   <td>
     Machine Learning project, exploring different models, and building a solid pipeline.
+    <br><br>
     <a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
   </td>
 </tr>
