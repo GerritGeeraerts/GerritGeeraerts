@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td colspan="2" style="text-align: center; font-weight: bold;">
-      <a href="https://project1.example.com" target="_blank">Project 1</a>
+      <a href="[https://project1.example.com](https://github.com/GerritGeeraerts/powerplant-coding-challenge)" target="_blank">powerplant-coding-challenge </a>
     </td>
   </tr>
     <tr>
@@ -27,10 +27,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/100" alt="Project 1 Image" width="100" height="100">
+      <img src="https://github.com/GerritGeeraerts/powerplant-coding-challenge/raw/master/assets/fast_api_power_plant.jpeg" alt="Fast Api Powerplant" width="100" height="100">
     </td>
     <td>
-      This is a short description of Project 1. It is a brief overview of what the project is about.
+      Calculate the productionplan of a multitude of powerplants [Python] [FastAPI] [Docker] 
       <br><br>
       <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project</a>
     </td>
