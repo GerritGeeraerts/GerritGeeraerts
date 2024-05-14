@@ -12,7 +12,7 @@
 </p>
 <h1>Projects:</h1>
 <table>
-  <tr>
+  <tr style="margin-top:10px;">
     <th colspan="2" style="text-align: center;">
       <a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a>
     </th>
@@ -28,7 +28,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr style="margin-top:10px;">
     <th colspan="2" style="text-align: center;">
       <a href="https://github.com/GerritGeeraerts/scrapy-playwright-demo" target="_blank">Scrapy Playwright Demo ↗</a>
     </th>
