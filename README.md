@@ -18,12 +18,12 @@
 ---
 <table>
   <tr>
-    <th colspan="2" style="text-align: center;">Projects</th>
-  </tr>
-  <tr>
     <td colspan="2" style="text-align: center; font-weight: bold;">
       <a href="https://project1.example.com" target="_blank">Project 1</a>
     </td>
+  </tr>
+    <tr>
+    <th colspan="2" style="text-align: center;">Projects</th>
   </tr>
   <tr>
     <td>
