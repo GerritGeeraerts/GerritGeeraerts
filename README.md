@@ -18,13 +18,15 @@
 ---
 <table>
   <tr>
-    <th>Title</th>
-    <th>Description</th>
+    <th colspan="2">Title</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <a href="https://project1.example.com" target="_blank">Project 1</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="https://project1.example.com" target="_blank">Project 1</a>
-      <br>
       <img src="https://via.placeholder.com/100" alt="Project 1 Image" width="100" height="100">
     </td>
     <td>
@@ -34,9 +36,12 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2" style="text-align: center;">
       <a href="https://project2.example.com" target="_blank">Project 2</a>
-      <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://via.placeholder.com/100" alt="Project 2 Image" width="100" height="100">
     </td>
     <td>
@@ -46,9 +51,12 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2" style="text-align: center;">
       <a href="https://project3.example.com" target="_blank">Project 3</a>
-      <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://via.placeholder.com/100" alt="Project 3 Image" width="100" height="100">
     </td>
     <td>
@@ -58,5 +66,6 @@
     </td>
   </tr>
 </table>
+
 
 
