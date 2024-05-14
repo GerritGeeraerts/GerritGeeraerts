@@ -82,17 +82,18 @@
       <a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
+
   <tr>
-    <th colspan="2" style="text-align: center;"><a href="https://github.com/miguelallgood/wine-market-analysis" target="_blank">Wine Market Analysis ↗</a></th>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/miguelallgood/wine-market-analysis/tree/main" target="_blank">Wine Market Analysis ↗</a></th>
   </tr>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/482234?s=200&v=4" alt="Wine Market Analysis" width="100" height="100">
+      <img src="https://github.com/miguelallgood/wine-market-analysis/blob/main/assets/wine_project.png?raw=true" alt="Wine Market Analysis" width="100" height="100">
     </td>
     <td>
       [Python]
       <br><br>
-      <a href="https://github.com/miguelallgood/wine-market-analysis" target="_blank" style="float: right;">Go to Project ↗</a>
+      <a href="https://github.com/miguelallgood/wine-market-analysis/tree/main" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
 </table>
