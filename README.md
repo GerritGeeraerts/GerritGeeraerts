@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/10213635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10213635" height="30" width="40" /></a>
 </p>
 <h1>Projects:</h1>
-<div style="width: 100%; max-width: 800px; margin: auto;">
+<div style="width: 800px; max-width: 800px; margin: auto;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <th colspan="2" style="text-align: center;">
