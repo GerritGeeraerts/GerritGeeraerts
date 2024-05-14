@@ -23,7 +23,7 @@
     </td>
   </tr>
     <tr>
-    <th colspan="2" style="text-align: center;">Projects</th>
+    <th colspan="2" style="text-align: center;"><a href="https://project1.example.com" target="_blank">Project 1</a></th>
   </tr>
   <tr>
     <td>
