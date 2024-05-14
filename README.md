@@ -18,10 +18,10 @@
 ---
 <table>
   <tr>
-    <th colspan="2">Title</th>
+    <th colspan="2" style="text-align: center;">Projects</th>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" style="text-align: center; font-weight: bold;">
       <a href="https://project1.example.com" target="_blank">Project 1</a>
     </td>
   </tr>
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" style="text-align: center; font-weight: bold;">
       <a href="https://project2.example.com" target="_blank">Project 2</a>
     </td>
   </tr>
@@ -51,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" style="text-align: center; font-weight: bold;">
       <a href="https://project3.example.com" target="_blank">Project 3</a>
     </td>
   </tr>
@@ -65,6 +65,8 @@
       <a href="https://project3.example.com" target="_blank" style="float: right;">Go to Project</a>
     </td>
   </tr>
+</table>
+
 </table>
 
 
