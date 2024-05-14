@@ -54,30 +54,32 @@
       <a href="https://github.com/GerritGeeraerts/scrapy-playwright-demo" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
+
   <tr>
-    <th colspan="2" style="text-align: center;"><a href="https://github.com/immo-eliza/immo-eliza-app" target="_blank">Immo Eliza App ↗</a></th>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank">Immo Eliza App ↗</a></th>
   </tr>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/71317471?s=200&v=4" alt="Immo Eliza App" width="100" height="100">
+      <img src="https://github.com/GerritGeeraerts/immo-eliza-ml/raw/master/assets/charlie.png" alt="Immo Eliza App" width="100" height="100">
     </td>
     <td>
       House Prediction App [Python]
       <br><br>
-      <a href="https://github.com/immo-eliza/immo-eliza-app" target="_blank" style="float: right;">Go to Project ↗</a>
+      <a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
+  
   <tr>
-    <th colspan="2" style="text-align: center;"><a href="https://github.com/immo-eliza/immo-eliza-ml" target="_blank">Immo Eliza ML ↗</a></th>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank">Immo Eliza ML ↗</a></th>
   </tr>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/71317471?s=200&v=4" alt="Immo Eliza ML" width="100" height="100">
+      <img src="https://github.com/GerritGeeraerts/immo-eliza-ml/raw/master/assets/charlie.png" alt="Immo Eliza ML" width="100" height="100">
     </td>
     <td>
       [Python]
       <br><br>
-      <a href="https://github.com/immo-eliza/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
+      <a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
   <tr>
