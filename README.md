@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/10213635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10213635" height="30" width="40" /></a>
 </p>
 <h1>Projects:</h1>
-<div>
+<div style="width: 100%; max-width: 800px; margin: auto;">
   <table>
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a></th>
@@ -42,7 +42,7 @@
     </td>
   </tr>
 </table>
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 800px; border-collapse: collapse;">
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank">Immo Eliza App ↗</a></th>
   </tr>
