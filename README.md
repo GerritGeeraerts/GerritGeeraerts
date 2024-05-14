@@ -62,8 +62,7 @@
       <img src="https://github.com/GerritGeeraerts/immo-eliza-ml/raw/master/assets/charlie.png" alt="Immo Eliza ML" width="100" height="100">
     </td>
     <td>
-      [Python]
-      <br><br>
+      My first Machine Learning project. Exciting! I use a dataset of houses that we scraped from the internet and in this repo I will apply Linear Regression together with Charlie 🦀 to predict the price of a house based on its features.
       <a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
