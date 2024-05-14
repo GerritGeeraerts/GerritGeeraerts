@@ -48,7 +48,7 @@
       <img src="https://github.com/GerritGeeraerts/immo-eliza-ml/raw/master/assets/charlie.png" alt="Immo Eliza App" width="100" height="100">
     </td>
     <td>
-      House Prediction App [Python]
+      Deploying Immo Prediction model with Streamlit and FastAPI
       <br><br>
       <a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
@@ -62,7 +62,7 @@
       <img src="https://github.com/GerritGeeraerts/immo-eliza-ml/raw/master/assets/charlie.png" alt="Immo Eliza ML" width="100" height="100">
     </td>
     <td>
-      My first Machine Learning project. Exciting! I use a dataset of houses that we scraped from the internet and in this repo I will apply Linear Regression together with Charlie 🦀 to predict the price of a house based on its features.
+      Machine Learning project, exploring different models, and building a solid pipeline.
       <a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
@@ -75,7 +75,7 @@
       <img src="https://github.com/miguelallgood/wine-market-analysis/blob/main/assets/wine_project.png?raw=true" alt="Wine Market Analysis" width="100" height="100">
     </td>
     <td>
-      [Python]
+      Fixing an OLTP database and making a new OLAP database from it.
       <br><br>
       <a href="https://github.com/miguelallgood/wine-market-analysis/tree/main" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
