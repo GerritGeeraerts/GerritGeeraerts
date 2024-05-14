@@ -10,21 +10,6 @@
 <a href="https://linkedin.com/in/gerrit-geeraerts-143488141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerrit-geeraerts-143488141" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10213635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10213635" height="30" width="40" /></a>
 </p>
-<table>
-  <tr>
-    <th colspan="2" style="text-align: center;"><a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a></th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/GerritGeeraerts/powerplant-coding-challenge/raw/master/assets/fast_api_power_plant.jpeg" alt="Fast Api Powerplant" width="100" height="100">
-    </td>
-    <td>
-      Calculate the productionplan of a multitude of powerplants [Python] [FastAPI] [Docker] 
-      <br><br>
-      <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project ↗</a>
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
