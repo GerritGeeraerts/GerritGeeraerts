@@ -40,7 +40,8 @@
       <a href="https://github.com/GerritGeeraerts/scrapy-playwright-demo" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
-
+</table>
+<table>
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank">Immo Eliza App ↗</a></th>
   </tr>
@@ -54,7 +55,8 @@
       <a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
-  
+</table>
+<table>  
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank">Immo Eliza ML ↗</a></th>
   </tr>
@@ -67,7 +69,8 @@
       <a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
-
+</table>
+<table>
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/miguelallgood/wine-market-analysis/tree/main" target="_blank">Wine Market Analysis ↗</a></th>
   </tr>
