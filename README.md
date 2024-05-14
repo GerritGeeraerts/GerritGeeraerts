@@ -30,39 +30,89 @@
       <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td colspan="2" style="text-align: center; font-weight: bold;">
-      <a href="https://project2.example.com" target="_blank">Project 2</a>
-    </td>
+    <th colspan="2" style="text-align: center;"><a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a></th>
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/100" alt="Project 2 Image" width="100" height="100">
+      <img src="https://github.com/GerritGeeraerts/powerplant-coding-challenge/raw/master/assets/fast_api_power_plant.jpeg" alt="Fast Api Powerplant" width="100" height="100">
     </td>
     <td>
-      This is a short description of Project 2. It is a brief overview of what the project is about.
+      Calculate the productionplan of a multitude of powerplants [Python] [FastAPI] [Docker] 
       <br><br>
-      <a href="https://project2.example.com" target="_blank" style="float: right;">Go to Project</a>
+      <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center; font-weight: bold;">
-      <a href="https://project3.example.com" target="_blank">Project 3</a>
-    </td>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/elipapa/markdown-cv" target="_blank">Markdown CV ↗</a></th>
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/100" alt="Project 3 Image" width="100" height="100">
+      <img src="https://avatars.githubusercontent.com/u/482234?s=200&v=4" alt="Markdown CV" width="100" height="100">
     </td>
     <td>
-      This is a short description of Project 3. It is a brief overview of what the project is about.
+      A simple template to write your CV in a readable markdown file and use CSS to publish/print it.
       <br><br>
-      <a href="https://project3.example.com" target="_blank" style="float: right;">Go to Project</a>
+      <a href="https://github.com/elipapa/markdown-cv" target="_blank" style="float: right;">Go to Project ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/scrapy/scrapy-playwright-demo" target="_blank">Scrapy Playwright Demo ↗</a></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5690838?s=200&v=4" alt="Scrapy Playwright Demo" width="100" height="100">
+    </td>
+    <td>
+      "Playing it right" Efficiently crawling Javascript-heavy websites. [Python] [Scrapy] [Playwright]
+      <br><br>
+      <a href="https://github.com/scrapy/scrapy-playwright-demo" target="_blank" style="float: right;">Go to Project ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/immo-eliza/immo-eliza-app" target="_blank">Immo Eliza App ↗</a></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/71317471?s=200&v=4" alt="Immo Eliza App" width="100" height="100">
+    </td>
+    <td>
+      House Prediction App [Python]
+      <br><br>
+      <a href="https://github.com/immo-eliza/immo-eliza-app" target="_blank" style="float: right;">Go to Project ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/immo-eliza/immo-eliza-ml" target="_blank">Immo Eliza ML ↗</a></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/71317471?s=200&v=4" alt="Immo Eliza ML" width="100" height="100">
+    </td>
+    <td>
+      [Python]
+      <br><br>
+      <a href="https://github.com/immo-eliza/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;"><a href="https://github.com/miguelallgood/wine-market-analysis" target="_blank">Wine Market Analysis ↗</a></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/482234?s=200&v=4" alt="Wine Market Analysis" width="100" height="100">
+    </td>
+    <td>
+      [Python]
+      <br><br>
+      <a href="https://github.com/miguelallgood/wine-market-analysis" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
 </table>
 
-</table>
 
 
 
