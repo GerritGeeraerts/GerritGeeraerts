@@ -12,7 +12,7 @@
 </p>
 <h1>Projects:</h1>
 <div style="width: 800px; max-width: 800px; margin: auto;">
-  <table style="width: 100%; border-collapse: collapse;">
+  <table style="width: 800px; border-collapse: collapse;">
     <tr>
       <th colspan="2" style="text-align: center;">
         <a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a>
