@@ -18,18 +18,18 @@
 ---
 <table>
   <tr>
-    <td colspan="2" style="text-align: center; font-weight: bold;">
-      <a href="[https://project1.example.com](https://github.com/GerritGeeraerts/powerplant-coding-challenge)" target="_blank">powerplant-coding-challenge </a>
-    </td>
-  </tr>
-    <tr>
-    <th colspan="2" style="text-align: center;"><a href="https://project1.example.com" target="_blank">Project 1</a></th>
+    <th colspan="2" style="text-align: center;"><a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge</a></th>
   </tr>
   <tr>
     <td>
       <img src="https://github.com/GerritGeeraerts/powerplant-coding-challenge/raw/master/assets/fast_api_power_plant.jpeg" alt="Fast Api Powerplant" width="100" height="100">
     </td>
     <td>
+      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+      ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+      ![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=pytest&logoColor=ffdd54)
+      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
       Calculate the productionplan of a multitude of powerplants [Python] [FastAPI] [Docker] 
       <br><br>
       <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project</a>
