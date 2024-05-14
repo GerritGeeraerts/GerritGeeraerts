@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/gerrit-geeraerts-143488141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerrit-geeraerts-143488141" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10213635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10213635" height="30" width="40" /></a>
 </p>
-<h2>Projects:</h2>
+<h1 align="center">Projects:</h1>
 <table>
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a></th>
