@@ -30,7 +30,7 @@
     </tr>
   </table>
 
-  <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <table style="width: 800px; border-collapse: collapse;">
     <tr>
       <th colspan="2" style="text-align: center;">
         <a href="https://github.com/GerritGeeraerts/scrapy-playwright-demo" target="_blank">Scrapy Playwright Demo ↗</a>
