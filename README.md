@@ -41,7 +41,7 @@
     </td>
   </tr>
 </table>
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank">Immo Eliza App ↗</a></th>
   </tr>
