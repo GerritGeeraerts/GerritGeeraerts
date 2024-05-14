@@ -11,8 +11,7 @@
 <a href="https://stackoverflow.com/users/10213635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10213635" height="30" width="40" /></a>
 </p>
 <h1>Projects:</h1>
-<div style="width: 800px; max-width: 800px; margin: auto;">
-  <table style="width: 800px; border-collapse: collapse;">
+  <table>
     <tr>
       <th colspan="2" style="text-align: center;">
         <a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a>
@@ -28,9 +27,7 @@
         <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project ↗</a>
       </td>
     </tr>
-  </table>
-
-  <table style="width: 800px; border-collapse: collapse;">
+    
     <tr>
       <th colspan="2" style="text-align: center;">
         <a href="https://github.com/GerritGeeraerts/scrapy-playwright-demo" target="_blank">Scrapy Playwright Demo ↗</a>
@@ -46,10 +43,7 @@
         <a href="https://github.com/GerritGeeraerts/scrapy-playwright-demo" target="_blank" style="float: right;">Go to Project ↗</a>
       </td>
     </tr>
-  </table>
-</div>
 
-<table style="width: 800px; border-collapse: collapse;">
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank">Immo Eliza App ↗</a></th>
   </tr>
@@ -63,8 +57,7 @@
       <a href="https://github.com/GerritGeeraerts/immo-eliza-app" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
-</table>
-<table>  
+
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank">Immo Eliza ML ↗</a></th>
   </tr>
@@ -77,8 +70,7 @@
       <a href="https://github.com/GerritGeeraerts/immo-eliza-ml" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
-</table>
-<table>
+
   <tr>
     <th colspan="2" style="text-align: center;"><a href="https://github.com/miguelallgood/wine-market-analysis/tree/main" target="_blank">Wine Market Analysis ↗</a></th>
   </tr>
@@ -93,7 +85,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 
 
