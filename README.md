@@ -12,7 +12,7 @@
 </p>
 <h1>Projects:</h1>
 <table>
-  <tr style="margin-top:10px;">
+  <tr style="border: none;">
     <th colspan="2" style="text-align: center;">
       <a href="https://project1.example.com" target="_blank">Powerplant Coding Challenge ↗</a>
     </th>
