@@ -28,6 +28,13 @@
       Calculate the productionplan of a multitude of powerplants [Python] [FastAPI] [Docker] 
       <br><br>
       <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project</a>
+      <a href="https://example.com" target="_blank" style="text-decoration: none;">
+  Open Project 
+  <svg style="width: 0.75em; height: 0.75em; margin-left: 0.25em;" viewBox="0 0 24 24">
+    <path fill="currentColor" d="M14,3H19A2,2 0 0,1 21,5V10A2,2 0 0,1 19,12H17V10H19V5H14V7H12V5A2,2 0 0,1 14,3M3,7H10A2,2 0 0,1 12,9V19A2,2 0 0,1 10,21H3A2,2 0 0,1 1,19V9A2,2 0 0,1 3,7M3,9V19H10V9H3Z" />
+  </svg>
+</a>
+
     </td>
   </tr>
   <tr>
