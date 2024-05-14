@@ -27,7 +27,7 @@
       <a href="https://project1.example.com" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
-  
+  <tr></tr>
   <tr style="margin-top:10px;">
     <th colspan="2" style="text-align: center;">
       <a href="https://github.com/GerritGeeraerts/scrapy-playwright-demo" target="_blank">Scrapy Playwright Demo ↗</a>
