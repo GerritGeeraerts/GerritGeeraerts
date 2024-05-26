@@ -10,7 +10,7 @@
 <table>
 <tr style="margin-top:10px;">
     <th colspan="2" style="text-align: center;">
-      <a href="https://github.com/GerritGeeraerts/churning" target="_blank">Scrapy Playwright Demo ↗</a>
+      <a href="https://github.com/GerritGeeraerts/churning" target="_blank">Customer Credit Card Cancelation Prediction ↗</a>
     </th>
   </tr>
   <tr>
