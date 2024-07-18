@@ -28,6 +28,26 @@
       <a href="https://github.com/GerritGeeraerts/churning" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
+<tr style="margin-top:10px;">
+    <th colspan="2" style="text-align: center;">
+      <a href="https://github.com/GerritGeeraerts/churning" target="_blank">Credit Card Churning ↗</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="" alt="Credit Card Churning" width="100" height="100">
+    </td>
+    <td>
+      <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb377f38a9897bbcbe70d8da37ec2b5952e2daccf1f5554ef4f143014990bcf6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465727261666f726d2d3632334345343f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/cb377f38a9897bbcbe70d8da37ec2b5952e2daccf1f5554ef4f143014990bcf6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465727261666f726d2d3632334345343f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465" alt="Terraform" data-canonical-src="https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d7ae7dec8f2cdbd7533337130f76a00915b96fb37d67d6ec01bb6ea9d08800b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9d7ae7dec8f2cdbd7533337130f76a00915b96fb37d67d6ec01bb6ea9d08800b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465" alt="Azure" data-canonical-src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4782248bc3c70235dff8e45086fa35dc4f80ef93a722de01f6fc9a0b78a503a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d4c666c6f772d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6c666c6f77266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4782248bc3c70235dff8e45086fa35dc4f80ef93a722de01f6fc9a0b78a503a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d4c666c6f772d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6c666c6f77266c6f676f436f6c6f723d7768697465" alt="MLflow" data-canonical-src="https://img.shields.io/badge/MLflow-0077B5?style=for-the-badge&amp;logo=mlflow&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7eefb2ba052806d8a9ce69863c2eeb3b03cd5935ead7bd2e9245ae2e705a1adf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/7eefb2ba052806d8a9ce69863c2eeb3b03cd5935ead7bd2e9245ae2e705a1adf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a></p>
+      Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
+      <br><br>
+      <a href="https://github.com/GerritGeeraerts/churning" target="_blank" style="float: right;">Go to Project ↗</a>
+    </td>
+  </tr>
   <tr style="border: none;">
     <th colspan="2" style="text-align: center;">
       <a href="https://github.com/GerritGeeraerts/powerplant-coding-challenge" target="_blank">Powerplant Coding Challenge ↗</a>
