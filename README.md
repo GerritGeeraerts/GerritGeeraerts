@@ -10,12 +10,12 @@
 <table>
 <tr style="margin-top:10px;">
     <th colspan="2" style="text-align: center;">
-      <a href="https://github.com/GerritGeeraerts/churning" target="_blank">Credit Card Churning ↗</a>
+      <a href="https://github.com/GerritGeeraerts/churning" target="_blank">ArcelorMittal ChatBot ↗</a>
     </th>
   </tr>
   <tr>
     <td>
-      <img src="" alt="Credit Card Churning" width="100" height="100">
+      <img src="" alt="ArcelorMittal ChatBot" width="100" height="100">
     </td>
     <td>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
@@ -24,7 +24,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90fa3b001d14aa0dabf033fd6fa765219e738d94fd7912fc790a3269e56f38f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e656f346a2d3030384343313f7374796c653d666f722d7468652d6261646765266c6f676f3d6e656f346a266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/90fa3b001d14aa0dabf033fd6fa765219e738d94fd7912fc790a3269e56f38f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e656f346a2d3030384343313f7374796c653d666f722d7468652d6261646765266c6f676f3d6e656f346a266c6f676f436f6c6f723d7768697465" alt="neo4j" data-canonical-src="https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7560de3107744045bb2225e6335ae29240da60ac775cdf02c7ed87915d89d4ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363726170792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736372617079266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7560de3107744045bb2225e6335ae29240da60ac775cdf02c7ed87915d89d4ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363726170792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736372617079266c6f676f436f6c6f723d7768697465" alt="Scrapy" data-canonical-src="https://img.shields.io/badge/Scrapy-000000?style=for-the-badge&amp;logo=scrapy&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/121d8055ce25931b33557341b1397ec6721dca05b7f07978cbf3c9b9f4509b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d73747265616d6c6974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/121d8055ce25931b33557341b1397ec6721dca05b7f07978cbf3c9b9f4509b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d73747265616d6c6974266c6f676f436f6c6f723d7768697465" alt="Streamlit" data-canonical-src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" style="max-width: 100%;"></a></p>
-      Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
+      Chat with ArcelorMittal's website and there job database. Via this RAG solotion.
       <br><br>
       <a href="https://github.com/GerritGeeraerts/churning" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
