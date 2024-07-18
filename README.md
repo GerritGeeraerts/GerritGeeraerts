@@ -10,7 +10,7 @@
 <table>
 <tr style="margin-top:10px;">
     <th colspan="2" style="text-align: center;">
-      <a href="https://github.com/GerritGeeraerts/churning" target="_blank">ArcelorMittal ChatBot ↗</a>
+      <a href="https://github.com/GerritGeeraerts/arcelormittal-chatbot" target="_blank">ArcelorMittal ChatBot ↗</a>
     </th>
   </tr>
   <tr>
@@ -26,7 +26,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/121d8055ce25931b33557341b1397ec6721dca05b7f07978cbf3c9b9f4509b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d73747265616d6c6974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/121d8055ce25931b33557341b1397ec6721dca05b7f07978cbf3c9b9f4509b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d73747265616d6c6974266c6f676f436f6c6f723d7768697465" alt="Streamlit" data-canonical-src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" style="max-width: 100%;"></a></p>
       Chat with ArcelorMittal's website and there job database. Via this RAG solotion.
       <br><br>
-      <a href="https://github.com/GerritGeeraerts/churning" target="_blank" style="float: right;">Go to Project ↗</a>
+      <a href="https://github.com/GerritGeeraerts/arcelormittal-chatbot" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
 <tr style="margin-top:10px;">
