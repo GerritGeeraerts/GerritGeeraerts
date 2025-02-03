@@ -72,6 +72,26 @@
       <a href="https://github.com/GerritGeeraerts/arcelormittal-chatbot" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
+<tr style="border: none;">
+    <th colspan="2" style="text-align: center;">
+      <a href="https://github.com/GerritGeeraerts/powerplant-coding-challenge" target="_blank">Powerplant Coding Challenge ↗</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/GerritGeeraerts/powerplant-coding-challenge/raw/master/assets/fast_api_power_plant.jpeg" alt="Fast Api Powerplant" width="100" height="100">
+    </td>
+    <td>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e39929a378d51fbc2b819c60b41e25514a8e24e2e42889cd936e9365dc0d438d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d66617374617069"><img src="https://camo.githubusercontent.com/e39929a378d51fbc2b819c60b41e25514a8e24e2e42889cd936e9365dc0d438d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d66617374617069" alt="FastAPI" data-canonical-src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aebf01845192633eeb04575e9b9ccf02a3a7d2b7605e997de4dd8e44d0152327/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079746573742d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974657374266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/aebf01845192633eeb04575e9b9ccf02a3a7d2b7605e997de4dd8e44d0152327/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079746573742d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974657374266c6f676f436f6c6f723d666664643534" alt="Pytest" data-canonical-src="https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&amp;logo=pytest&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a></p>
+      Calculate the productionplan of a multitude of powerplants [Python] [FastAPI] [Docker] 
+      <br><br>
+      <a href="https://github.com/GerritGeeraerts/powerplant-coding-challenge" target="_blank" style="float: right;">Go to Project ↗</a>
+    </td>
+  </tr>
 <tr style="margin-top:10px;">
     <th colspan="2" style="text-align: center;">
       <a href="https://github.com/GerritGeeraerts/churning" target="_blank">Credit Card Churning ↗</a>
@@ -90,26 +110,6 @@
       Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
       <br><br>
       <a href="https://github.com/GerritGeeraerts/churning" target="_blank" style="float: right;">Go to Project ↗</a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <th colspan="2" style="text-align: center;">
-      <a href="https://github.com/GerritGeeraerts/powerplant-coding-challenge" target="_blank">Powerplant Coding Challenge ↗</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/GerritGeeraerts/powerplant-coding-challenge/raw/master/assets/fast_api_power_plant.jpeg" alt="Fast Api Powerplant" width="100" height="100">
-    </td>
-    <td>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e39929a378d51fbc2b819c60b41e25514a8e24e2e42889cd936e9365dc0d438d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d66617374617069"><img src="https://camo.githubusercontent.com/e39929a378d51fbc2b819c60b41e25514a8e24e2e42889cd936e9365dc0d438d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d66617374617069" alt="FastAPI" data-canonical-src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aebf01845192633eeb04575e9b9ccf02a3a7d2b7605e997de4dd8e44d0152327/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079746573742d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974657374266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/aebf01845192633eeb04575e9b9ccf02a3a7d2b7605e997de4dd8e44d0152327/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079746573742d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974657374266c6f676f436f6c6f723d666664643534" alt="Pytest" data-canonical-src="https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&amp;logo=pytest&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a></p>
-      Calculate the productionplan of a multitude of powerplants [Python] [FastAPI] [Docker] 
-      <br><br>
-      <a href="https://github.com/GerritGeeraerts/powerplant-coding-challenge" target="_blank" style="float: right;">Go to Project ↗</a>
     </td>
   </tr>
   <tr style="margin-top:10px;">
