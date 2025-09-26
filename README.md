@@ -1,4 +1,6 @@
 <a href="file:///home/gg/PycharmProjects/portfolio/index.html">
-    <img src="./portrait-cartoon.png" alt="Cartoon Portrait" width="600">
+    <img src="./portrait-cartoon.png" alt="Cartoon Portrait" width="500">
 </a>
-[Visit My Portfolio](https://gerritgeeraerts.github.io/portfolio/)
+<br> <!-- Optional: Add a line break for spacing -->
+
+<a href="https://gerritgeeraerts.github.io/portfolio/">Visit My Portfolio</a>
